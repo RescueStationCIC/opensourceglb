@@ -1,0 +1,11 @@
+Model Information:
+* title:	Spinosaurus (it has textures now!)
+* source:	https://sketchfab.com/3d-models/spinosaurus-it-has-textures-now-f8034dc87aca4cb3a7f78c3fc928118d
+* author:	Edward Johnson (https://sketchfab.com/ehj5672)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Spinosaurus (it has textures now!)" (https://sketchfab.com/3d-models/spinosaurus-it-has-textures-now-f8034dc87aca4cb3a7f78c3fc928118d) by Edward Johnson (https://sketchfab.com/ehj5672) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
